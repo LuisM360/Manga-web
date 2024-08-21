@@ -19,5 +19,6 @@ To get started with this project, follow the instructions below.
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/test-react-app.git
-cd test-react-app
+git clone https://github.com/LuisM360/Manga-web
+cd Manga-web
+npm run
